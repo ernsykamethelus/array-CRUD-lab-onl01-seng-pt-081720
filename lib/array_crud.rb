@@ -1,3 +1,4 @@
+
 def create_an_empty_array
   index_number= []
 end
@@ -20,6 +21,7 @@ def add_element_to_end_of_array(array, element)
 
 def remove_element_from_end_of_array(array)
   index_number = ["1", "2", "3", "4"]
+  index_number.pop= "arrays!"
   
 end
 
