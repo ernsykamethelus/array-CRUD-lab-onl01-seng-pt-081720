@@ -10,8 +10,7 @@ def add_element_to_end_of_array(array, element)
     science = ["astrology", "numerology", "stars", "spiritualy"]
     science << "arrays!"
   end
-
-
+  
   
   def add_element_to_start_of_array(array, element)
     science = ["astrology", "numerology", "stars", "spiritualy"]
