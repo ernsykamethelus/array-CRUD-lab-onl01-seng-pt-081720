@@ -28,7 +28,6 @@ end
 
 def retrieve_element_from_index(array, index_number)
   index_number = ["1", "2", "3", "4"]
-  index_number ("am")
 end
 
 
