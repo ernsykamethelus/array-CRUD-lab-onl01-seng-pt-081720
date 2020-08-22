@@ -13,13 +13,14 @@ def add_element_to_end_of_array(array, element)
   
   
   def add_element_to_start_of_array(array, element)
-    array = ["astrology", "numerology", "stars", "spiritualy"]
-    element.unshift ("wow")
+    science = ["astrology", "numerology", "stars", "spiritualy"]
+    science.unshift ("wow")
   end
   
 
 def add_element_to_start_of_array(array, element)
-  
+  science = ["astrology", "numerology", "stars", "spiritualy", "arrays"]
+  science.shift
 end
 
 def remove_element_from_end_of_array(array)
