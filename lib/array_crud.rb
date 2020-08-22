@@ -19,8 +19,7 @@ def add_element_to_end_of_array(array, element)
   
 
 def add_element_to_start_of_array(array, element)
-  science = ["astrology", "numerology", "stars", "spiritualy", "arrays"]
-  science.shift "arrays!"
+  
 end
 
 def remove_element_from_end_of_array(array)
