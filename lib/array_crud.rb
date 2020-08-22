@@ -1,10 +1,10 @@
 
 def create_an_empty_array
-  = []
+  spec_helper= []
 end
 
 def create_an_array
- index_number = ["1", "2", "3", "4"]
+ spec_helper = ["1", "2", "3", "4"]
 end
 
 def add_element_to_end_of_array(array, element)
