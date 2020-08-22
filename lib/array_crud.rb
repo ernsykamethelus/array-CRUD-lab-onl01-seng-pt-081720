@@ -1,5 +1,5 @@
 def create_an_empty_array
-  index_number[]
+  index_number= []
 end
 
 def create_an_array
