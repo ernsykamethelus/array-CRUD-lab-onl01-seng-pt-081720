@@ -8,8 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
     array = ["astrology", "numerology", "stars", "spiritualy"]
-    element = "light"
-    add_element_to_start_of_array<< "light"
+    
   end
 end
 
