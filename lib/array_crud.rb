@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   index_number = ["wow", "I", "am", "really", "learning", "arrays!"]
-  index_number "am"
+  index_number ["am"]
 end
 
 
