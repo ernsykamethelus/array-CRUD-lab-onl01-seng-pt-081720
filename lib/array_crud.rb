@@ -20,7 +20,7 @@ def add_element_to_end_of_array(array, element)
   
 
 def remove_element_from_end_of_array(array)
-  index_number = [ "arrays!"]
+  index_number = "arrays!"
   index_number.pop(4)
 end
 
