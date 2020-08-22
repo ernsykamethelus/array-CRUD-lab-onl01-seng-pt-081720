@@ -30,7 +30,7 @@ end
 def retrieve_element_from_index(array, index_number)
   index_number = ["1", "2", "3", "4"]
   index_number = 2
-  index_number [2]
+  index_number [am]
 end
 
 def retrieve_first_element_from_array(array)
