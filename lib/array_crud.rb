@@ -17,10 +17,10 @@ def add_element_to_end_of_array(array, element)
     index_number.unshift ("wow")
   end
   
-
 def remove_element_from_end_of_array(array)
   index_number = "arrays!"
 end
+
 
 def remove_element_from_start_of_array(array)
   index_number = "wow"
@@ -29,6 +29,7 @@ def retrieve_element_from_index(array, index_number)
   spec_helper = ["wow", "I", "am", "really", "learning", "arrays!"]
   index_number "am"
 end
+
 
 def retrieve_first_element_from_array(array)
   
