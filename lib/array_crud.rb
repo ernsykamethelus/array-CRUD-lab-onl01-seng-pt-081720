@@ -36,5 +36,5 @@ index_number= "wow"
 end
 
 def retrieve_last_element_from_array(array)
-  
+  index_number=  "arrays!"
 end
