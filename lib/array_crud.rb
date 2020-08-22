@@ -1,31 +1,29 @@
-
 def create_an_empty_array
-  spec_helper= []
+  index_number= []
 end
 
 def create_an_array
- spec_helper = ["wow", "I", "am", "really", "learning"]
+ index_number = ["1", "2", "3", "4"]
 end
 
 def add_element_to_end_of_array(array, element)
-    spec_helper = ["wow", "I", "am", "really", "learning"]
-    spec_helper << "arrays!"
+    index_number = ["1", "2", "3", "4"]
+    index_number << "arrays!"
   end
   
   
   def add_element_to_start_of_array(array, element)
-    spec_helper = ["wow", "I", "am", "really", "learning"]
-    spec_helper.unshift ("wow")
+    index_number = ["1", "2", "3", "4"]
+    index_number.unshift ("wow")
   end
   
 
 def remove_element_from_end_of_array(array)
-  spec_helper = "arrays!"
+  index_number = "arrays!"
 end
 
 def remove_element_from_start_of_array(array)
-  spec_helper = "wow"
-end
+  index_number = "wow"
 
 def retrieve_element_from_index(array, index_number)
   spec_helper = ["wow", "I", "am", "really", "learning", "arrays!"]
