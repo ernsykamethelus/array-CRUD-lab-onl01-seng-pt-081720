@@ -12,9 +12,9 @@ def add_element_to_end_of_array(array, element)
   end
   
   
-  def add_element_to_start_of_array([1,2,3,4], 0)
+  def add_element_to_start_of_array(array, element)
     index_number= ["1", "2", "3", "4"]
-    index_number.unshift ("wow")
+    index_number.unshift "wow"
   end
   
 
