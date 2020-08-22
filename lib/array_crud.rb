@@ -3,12 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
- science ["astrology", "numerology", "stars", "spiritualy"]
+ science = ["astrology", "numerology", "stars", "spiritualy"]
 end
 
 def add_element_to_end_of_array(array, element)
-    array = ["astrology", "numerology", "stars", "spiritualy"]
-    element = "light"
+    science = ["astrology", "numerology", "stars", "spiritualy"]
+    science << "light"
   end
 end
 
