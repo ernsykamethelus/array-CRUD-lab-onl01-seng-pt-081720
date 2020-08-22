@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-    science = ["astrology", "numerology", "stars", "spiritualy"]
+    add_element_to_end_of_array = ["astrology", "numerology", "stars", "spiritualy"]
     science << "light"
   end
 end
